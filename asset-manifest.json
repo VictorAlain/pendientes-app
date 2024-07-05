@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pendientes-app/static/css/main.0b21cdaa.css",
+    "main.css": "/pendientes-app/static/css/main.3c580017.css",
     "main.js": "/pendientes-app/static/js/main.f75a693f.js",
     "index.html": "/pendientes-app/index.html",
     "static/media/delete.svg": "/pendientes-app/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
     "static/media/check.svg": "/pendientes-app/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.0b21cdaa.css.map": "/pendientes-app/static/css/main.0b21cdaa.css.map",
+    "main.3c580017.css.map": "/pendientes-app/static/css/main.3c580017.css.map",
     "main.f75a693f.js.map": "/pendientes-app/static/js/main.f75a693f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b21cdaa.css",
+    "static/css/main.3c580017.css",
     "static/js/main.f75a693f.js"
   ]
 }
