@@ -5,7 +5,7 @@ function EmptyTodos() {
   return (
     <div>
       <div className='EmptyTodosDiv'></div>
-      <p className='EmptyTodosMessage'>¡No se encontro ningun pendiente! 😥</p>
+      <p className='EmptyTodosMessage'>¡No se encontro ningun pendiente! 🤷‍♂️</p>
     </div>
   );
 }
