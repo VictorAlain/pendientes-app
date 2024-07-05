@@ -1,0 +1,8 @@
+.TodosErrorMessage {
+    margin: 0 24px;
+}
+
+.TodosErrorDiv {
+    border-bottom: 1px solid #ccc;
+    margin: 24px;
+}

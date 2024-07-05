@@ -1,0 +1,22 @@
+.TodoCounter {
+  font-size: 24px;
+  text-align: center;
+  margin: 0;
+  padding: 48px;
+  font-weight: normal;
+}
+
+.TodoCounter span {
+  font-weight: bold;
+}
+
+@media screen and (max-width: 440px) {
+  .TodoCounter {
+    font-size: 18px;
+    padding: 58px 10px 38px 10px;
+    font-weight: 500;
+  }
+  .TodoCounter span {
+    font-weight: 800;
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Pendientes",
+  "name": "Pendientes app",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,18 +8,18 @@
       "type": "image/x-icon"
     },
     {
-      "src": "react192.png",
+      "src": "favicon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "react512.png",
+      "src": "favicon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#0ae98a",
-  "background_color": "#13161c"
+  "theme_color": "#ffffff",
+  "background_color": "#000000"
 }

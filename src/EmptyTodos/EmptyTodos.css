@@ -1,0 +1,8 @@
+.EmptyTodosMessage {
+    margin: 0 24px;
+}
+
+.EmptyTodosDiv {
+    border-bottom: 1px solid #ccc;
+    margin: 24px;
+}
