@@ -1,6 +1,6 @@
 .CreateTodoButton {
-  background: rgb(0, 0, 0,.90);
-  backdrop-filter: blur(10px);
+  background: rgb(0, 0, 0,.85);
+  backdrop-filter: blur(15px);
   border: none;
   border-radius: 20px;
   cursor: pointer;
@@ -27,4 +27,5 @@
 
 .CreateTodoButton:hover {
   transform: rotate(180deg);
+  background: rgb(0, 0, 0);
 }
