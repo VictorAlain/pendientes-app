@@ -25,7 +25,7 @@ function TodoForm() {
 
     return (
         <form onSubmit={onSubmit}>
-            <label>Crea un nuevo pendiente</label>
+            <label>Crear un nuevo pendiente</label>
             <textarea name="" id="" placeholder="Escribe tu pendiente" value={newTodoValue} onChange={onChange}></textarea>
             <div className="TodoForm-buttonContainer">
                 <button className="TodoForm-button TodoForm-button--cancel" type="button" onClick={onCancel}>Cancelar</button>
