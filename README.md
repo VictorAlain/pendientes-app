@@ -7,6 +7,8 @@
 
 [Pendientes App](https://victoralain.github.io/pendientes-app/) es una aplicación desarrollada para gestionar pendientes y mucho más. La aplicación está construida con React.js, HTML y CSS, y ofrece una interfaz sencilla y eficaz para organizar tus tareas diarias.
 
+<p align="left"><a href="https://victoralain.github.io/pendientes-app/" target="_blank"><img src="https://i.imgur.com/qZeWEwD.gif" width="400" alt="Pendientes App"></a></p>
+
 ## Características
 
 - Añadir, editar y eliminar pendientes.
