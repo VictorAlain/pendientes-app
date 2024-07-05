@@ -1,75 +1,52 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+<p align="center"><a href="https://victoralain.github.io/pendientes-app/" target="_blank"><img src="https://victoralain.github.io/pendientes-app/favicon-512.png" width="200" alt="Pendientes App Logo"></a></p>
 
-¡Hola, Platzinauta!
+<p align="center"><a href="https://victoralain.github.io/pendientes-app/" target="_blank" style="text-decoration: none; color: inherit; font-size: 22px; font-weight: 500;">Pendientes App</a></p>
 
-En este repositorio encontrarás el código de todas las clases del [Curso de Introducción a React.js](https://platzi.com/reactjs). Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
 
-La rama principal contiene el código con el que eempezamos el curso. En las demás ramas encontrarás el código de las siguientes clases y finalmente el deploy de la aplicación.
+## Descripción
 
-¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
+[Pendientes App](https://victoralain.github.io/pendientes-app/) es una aplicación desarrollada para gestionar pendientes y mucho más. La aplicación está construida con React.js, HTML y CSS, y ofrece una interfaz sencilla y eficaz para organizar tus tareas diarias.
 
-## Getting Started with Create React App
+## Características
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Añadir, editar y eliminar pendientes.
+- Marcar pendientes como completados.
+- Buscador de pendientes para encontrar rápidamente tareas específicas.
+- Interfaz de usuario amigable y responsiva.
 
-## Available Scripts
+## Tecnologías Utilizadas
 
-In the project directory, you can run:
+- [React.js](https://reactjs.org/): Una biblioteca de JavaScript para construir interfaces de usuario.
+- HTML5: El estándar de marcado para estructurar el contenido web.
+- CSS3: El lenguaje de estilos para diseñar la presentación de las páginas web.
 
-### `npm start`
+## Instalación
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Para ejecutar esta aplicación localmente, sigue estos pasos:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/victoralain/pendientes-app.git
+2. Navega al directorio del proyecto:
+   ```bash
+   cd pendientes-app
+3. Instala las dependencias:
+   ```bash
+   npm install
+4. Inicia la aplicación:
+   ```bash
+   npm start
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+La aplicación debería estar corriendo en http://localhost:3000/pendientes-app.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ¡Gracias por leer sobre [Pendientes App](https://victoralain.github.io/pendientes-app/)!
 
-### `npm run eject`
+Espero que te haya gustado conocer esta herramienta diseñada para hacer tu vida más organizada y eficiente.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Si encuentras útil esta aplicación, ¡no olvides dejarle una estrella en su repositorio! ⭐
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+¡Organízate mejor y disfruta de una experiencia más productiva con Pendientes App! 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Creado por VICTOR ALAIN con 🤍 para el mundo.
