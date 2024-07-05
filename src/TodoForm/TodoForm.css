@@ -84,7 +84,7 @@ textarea:focus {
     background-color: #e3e3e3;
 }
 
-@media screen and (max-width: 440px) {
+@media screen and (max-width: 500px) {
     form {
         margin: 0 10px;
     }

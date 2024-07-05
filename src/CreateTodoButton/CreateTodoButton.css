@@ -18,6 +18,8 @@
   width: 64px;
   min-height: 64px;
   min-width: 64px;
+  max-height: 64px;
+  max-width: 64px;
   z-index: 10;
   transform: rotate(0);
   transition: .3s ease;

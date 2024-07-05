@@ -1,3 +1,13 @@
+*,
+*:before,
+*:after {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -6,7 +16,16 @@ body {
   color: #1E1E1F;
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   user-select: none;
+  -webkit-user-select: none;
   overflow-x: hidden !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+button {
+  touch-action: manipulation;
 }
 
 header {
