@@ -30,8 +30,7 @@ button {
 
 header {
   text-align: center;
-  background: rgb(0, 0, 0,.90);
-  backdrop-filter: blur(10px);
+  background: #000000;
   width: 100vw;
   position: fixed;
   z-index: 2;
